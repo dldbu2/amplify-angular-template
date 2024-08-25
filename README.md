@@ -23,3 +23,9 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## Startuj sandbox
+
+npx ampx sandbox
+
+posle F5 za startovanje
